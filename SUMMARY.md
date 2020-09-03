@@ -2,5 +2,5 @@
 
 * [简介](README.md)
 
-* [简单题](easy/README.md)
-  * [两数之和](easy/两数之和.md)
+* [模板](template/README.md)
+  * [双指针](template/double_pointer.md)
